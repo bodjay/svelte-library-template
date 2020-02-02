@@ -1,11 +1,11 @@
 # svelte library template
 
-This is a project template for [Svelte](https://svelte.dev) libraries. It lives at https://github.com/henriquecaraujo/svelte-template-library.
+This is a project template for [Svelte](https://svelte.dev) libraries. It lives at https://github.com/henriquecaraujo/svelte-library-template.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit henriquecaraujo/svelte-template-library svelte-library
+npx degit henriquecaraujo/svelte-library-template svelte-library
 cd svelte-library
 ```
 
