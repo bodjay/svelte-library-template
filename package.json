@@ -1,8 +1,15 @@
 {
   "name": "svelte-library",
   "version": "1.0.0",
+  "description": "Library description",
+  "author": "Your name <your@email.com>",
+  "license": "MIT",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
